@@ -14,7 +14,7 @@ Charlotte (8.5k), Pittsburgh (6.4k) approaching lower limit of businesses needed
 
 
 
-![YelpBusinessesTool](.\Images\YelpBusinessesTool.png)
+![YelpBusinessesTool](./Images/YelpBusinessesTool.png)
 
 Bibliography
 
