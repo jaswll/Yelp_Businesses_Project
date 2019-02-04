@@ -33,10 +33,6 @@ Our goal is twofold:
 
 <br></br>
 
-### Problem Statement
-
-
-
 ### Executive Summary
 
 - A working Googlemaps tool that allows users to retrieve affluency estimates for a given area given Yelp’s businesses and services costs estimates has been developed.
