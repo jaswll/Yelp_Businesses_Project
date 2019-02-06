@@ -6,11 +6,10 @@
 
 1. [Context](#Context)
 2. [Objectives and Methodology](#Objectives-and-Methodology)
-3. [Problem Statement](#Problem-Statement)
-4. [Executive Summary](#Executive-Summary)
-5. [Repository Structure](#Repository-Structure)
-6. [Interactive Googlemaps Tool](#Interactive-Googlemaps-Tool)
-7. [Project Workflow](#Project-Workflow)
+3. [Executive Summary](#Executive-Summary)
+4. [Repository Structure](#Repository-Structure)
+5. [Interactive Googlemaps Tool](#Interactive-Googlemaps-Tool)
+6. [Project Workflow](#Project-Workflow)
 
 <br></br>
 
